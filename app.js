@@ -19,6 +19,7 @@ function tag(words) {
 const doubledScores = scores.map((score) => {
   return score * 2;
 });
-console.log(scores);
 
+
+console.log(scores);
 console.log(doubledScores);
